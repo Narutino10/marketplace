@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Backend/config/postgres.js" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Backend/server.js" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Backend/utils/faker.js" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/postgres/scriptpotgres.sql" dialect="PostgreSQL" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "user",
+    "password": "admin",
+    "database": "marketplace",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "user",
+    "password": "admin",
+    "database": "marketplace_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "user",
+    "password": "admin",
+    "database": "marketplace",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
